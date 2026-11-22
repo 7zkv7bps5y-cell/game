@@ -1,0 +1,40 @@
+# Unreal Engine generated folders (any depth)
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/Receipts/
+**/Plugins/**/Binaries/
+**/Plugins/**/Intermediate/
+
+# IDE / build files
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.xcodeproj
+*.xcworkspace
+
+# Compiled / temporary
+*.pdb
+*.obj
+*.dll
+*.exe
+*.lib
+*.tmp
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Local reports / secrets
+pc-report.txt
+.env
+*.env
