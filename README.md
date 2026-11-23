@@ -21,6 +21,7 @@
 | [docs/03-difficulty-and-sourcing.md](docs/03-difficulty-and-sourcing.md) | 実装難易度評価・自作/外部技術の分類・費用削減案 |
 | [docs/04-prototype-plan.md](docs/04-prototype-plan.md) | 最初に作る技術検証プロトタイプ |
 | [docs/05-setup-guide.md](docs/05-setup-guide.md) | PC環境セットアップ手順（コマンド付き） |
+| [docs/06-materials-and-trade.md](docs/06-materials-and-trade.md) | 狩猟素材の獲得・劣化・流通・個人依頼の設計 |
 
 ## 開発ルール（抜粋）
 
