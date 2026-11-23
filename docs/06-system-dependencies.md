@@ -41,7 +41,7 @@ flowchart TD
     Decay --> Process[加工<br/>劣化停止・用途変化]
     Decay --> Craft
     Process --> Craft[クラフト・料理・錬金]
-    Craft --> Market[流通<br/>ギルド/直接取引/BM/オークション/個人依頼]
+    Craft --> Market[流通<br/>ギルド/直接取引/フリマ/BM/オークション/個人依頼]
     Item --> Market
     Market --> Economy[プレイヤー経済]
     Craft -->|装備・料理・薬| Hunt
@@ -81,6 +81,7 @@ flowchart LR
     subgraph 経済
         Guild[ギルド・職業ギルド]
         Trade[直接取引]
+        Flea[フリーマーケット]
         BM[ブラックマーケット]
         Auction[月例オークション]
         Request[個人依頼]
@@ -95,7 +96,7 @@ flowchart LR
 
     MP --> Combat & Loot & Trade
     ItemModel --> Loot & Fresh & Craft & Ledger
-    Ledger --> Trade & Guild & BM & Auction & Request
+    Ledger --> Trade & Flea & Guild & BM & Auction & Request
     Combat --> AI --> Loot
     Loot --> Transport --> Fresh
     Fresh --> Craft
