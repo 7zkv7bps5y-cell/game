@@ -26,7 +26,7 @@
 | [docs/03-economy-and-trading.md](docs/03-economy-and-trading.md) | 経済・流通 |
 | [docs/05-open-questions.md](docs/05-open-questions.md) | 未決定事項・矛盾一覧 |
 | [docs/06-system-dependencies.md](docs/06-system-dependencies.md) | システム依存関係 |
-| [docs/07-beta-monsters.md](docs/07-beta-monsters.md) | ベータ版モンスター設計（A-3） |
+| [docs/07-beta-monsters.md](docs/07-beta-monsters.md) | モンスター設計（ベータ版A-3＋製品版構想） |
 
 ### 技術・計画資料
 
