@@ -26,6 +26,7 @@
 | `03-economy-and-trading.md` | 需要、流通経路、所有権・台帳、個人依頼、NPC経済、不正対策 |
 | `05-open-questions.md` | 未決定事項・矛盾・判断が必要な内容の一覧 |
 | `06-system-dependencies.md` | システム同士の依存関係とつながり |
+| `09-a3-creature-candidates.md` | A-3 新規モンスター・環境生物の追加候補（第1弾。正式採用ではない） |
 | `08-a3-boss-candidates.md` | A-3 ボス級モンスター候補の検討資料（正式採用ではない） |
 | `07-beta-monsters.md` | モンスター設計（ベータ版 A-3 は採用済み、製品版の地域別構想はたたき台） |
 

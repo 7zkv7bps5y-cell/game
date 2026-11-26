@@ -26,6 +26,7 @@
 | [docs/03-economy-and-trading.md](docs/03-economy-and-trading.md) | 経済・流通 |
 | [docs/05-open-questions.md](docs/05-open-questions.md) | 未決定事項・矛盾一覧 |
 | [docs/06-system-dependencies.md](docs/06-system-dependencies.md) | システム依存関係 |
+| [docs/09-a3-creature-candidates.md](docs/09-a3-creature-candidates.md) | A-3 新規モンスター・環境生物の追加候補（検討中） |
 | [docs/08-a3-boss-candidates.md](docs/08-a3-boss-candidates.md) | A-3 ボス級モンスター候補（検討中） |
 | [docs/07-beta-monsters.md](docs/07-beta-monsters.md) | モンスター設計（ベータ版A-3＋製品版構想） |
 
